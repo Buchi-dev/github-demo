@@ -12,5 +12,4 @@ Please follow the format exactly to avoid merge conflicts.
 
 ---
 
-## Example Entry
-- Charles Agustin — GitHub: @selerqc
+## Entries
