@@ -9,6 +9,7 @@ Please follow the format exactly to avoid merge conflicts.
 
 ## Format
 - Full Name —  GitHub: @username
+- Yuzon, Tristan Justine M. - Github: Buchi-dev
 
 ---
 
