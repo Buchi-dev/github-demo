@@ -13,3 +13,4 @@ Please follow the format exactly to avoid merge conflicts.
 ---
 
 ## Entries
+- Chalres
