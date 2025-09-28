@@ -14,3 +14,4 @@ Please follow the format exactly to avoid merge conflicts.
 
 ## Entries
 - Chalres
+- Yuzon, Tristan Justine M. —  GitHub: @Buchi-dev
