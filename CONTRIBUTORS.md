@@ -13,3 +13,4 @@ Please follow the format exactly to avoid merge conflicts.
 ---
 
 ## Entries
+- Yuzon, Tristan Justine M. —  GitHub: @Buchi-dev
