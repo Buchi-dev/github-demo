@@ -13,4 +13,4 @@ Please follow the format exactly to avoid merge conflicts.
 ---
 
 ## Entries
-1. 
+1. Gapuz, Ralph Vincent R. - GitHub: @ralphvincentgapuz
