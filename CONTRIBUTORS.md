@@ -13,6 +13,8 @@ Please follow the format exactly to avoid merge conflicts.
 ---
 
 ## Entries
-1. Kristine Sheila M. Villalobos - Github: @kristinevillalobos
-1. Charles - selerqc
+
+1. Timothy Sancho Tabangin - Kinaizer
+2. Kristine Sheila M. Villalobos - Github: @kristinevillalobos
+3. Charles - selerqc
 
