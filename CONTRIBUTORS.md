@@ -15,4 +15,5 @@ Please follow the format exactly to avoid merge conflicts.
 ## Entries
 1. Kristine Sheila M. Villalobos - Github: @kristinevillalobos
 1. Charles - selerqc
+1. Birco, Aivelle Zharina N. - GitHub: @azbirco
 
