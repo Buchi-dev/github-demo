@@ -13,4 +13,7 @@ Please follow the format exactly to avoid merge conflicts.
 ---
 
 ## Entries
+
+1. Pinkihan, Ned Bryne A. - NedBrynePinkihan
 1. Charles - selerqc
+
